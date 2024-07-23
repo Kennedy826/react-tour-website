@@ -1,64 +1,64 @@
 import React from "react";
 import PlaceCard from "./PlaceCard";
-import Img1 from "../../assets/places/boat.jpg";
-import Img2 from "../../assets/places/tajmahal.jpg";
-import Img3 from "../../assets/places/water.jpg";
-import Img4 from "../../assets/places/place4.jpg";
-import Img5 from "../../assets/places/place5.jpg";
-import Img6 from "../../assets/places/place6.jpg";
+import Img1 from "../../assets/diani.jpg";
+import Img2 from "../../assets/kruger.jpg";
+import Img3 from "../../assets/mara.jpg";
+import Img4 from "../../assets/atlas.jpg";
+import Img5 from "../../assets/kigali.jpg";
+import Img6 from "../../assets/pyramids.jpg";
 
 const PlacesData = [
   {
     img: Img1,
-    title: "Boat",
-    location: "USA",
-    description: "lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    price: 6700,
-    type: "Cultural Relax",
+    title: "Diani beach",
+    location: "Kenya",
+    description: "The beach is located in Kilifi county.",
+    price: 300,
+    type: "Beach experience",
   },
   {
     img: Img2,
-    title: "Taj Mahal",
-    location: "India",
+    title: "Kruger Natonal Park",
+    location: "South Africa ",
     description:
-      "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the river Yamuna in the Indian city of Agra.",
-    price: 6700,
-    type: "Cultural Relax",
+      "The natonal park is located in the Western Cape.",
+    price: 250,
+    type: "Wild life exerience",
   },
   {
     img: Img3,
-    title: "Underwater",
-    location: "US",
+    title: "Maasai Mara National Park",
+    location: "Kenya",
     description:
-      "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the river Yamuna in the Indian city of Agra.",
-    price: 6200,
+      "The park is located in Kajiado county,about 100km from the capital city Nairobi.",
+    price: 200,
     type: "Cultural Relax",
   },
   {
     img: Img4,
-    title: "Sydney",
-    location: "USA",
-    description: "lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    price: 6700,
-    type: "Cultural Relax",
+    title: "High Atlas-Paradise for Trekkers",
+    location: "Morocco",
+    description: "This eautiful scenery is located in High Atlas.",
+    price: 450,
+    type: "Mountain climbing",
   },
   {
     img: Img5,
-    title: "Los Angeles",
-    location: "United states",
+    title: "Kigali",
+    location: "Rwanda",
     description:
-      "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the river Yamuna in the Indian city of Agra.",
-    price: 6700,
-    type: "Cultural Relax",
+      "The captal city of Rwanda with great ambience.",
+    price: 350,
+    type: "City life",
   },
   {
     img: Img6,
-    title: "Los Vegas",
-    location: "California",
+    title: "Pyramids of Giza",
+    location: "Egypt",
     description:
-      "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the river Yamuna in the Indian city of Agra.",
-    price: 6200,
-    type: "Cultural Relax",
+      "The pyramids are located in Giza.",
+    price: 200,
+    type: "Cultural experiene",
   },
 ];
 
