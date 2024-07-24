@@ -6,8 +6,8 @@ import Places from "../components/Places/Places";
 import Testimonial from "../components/Testimonial/Testimonial";
 import Banner from "../components/Banner/Banner";
 import BannerPic from "../components/BannerPic/BannerPic";
-import BannerImg from "../assets/cover-women.jpg";
-import Banner2 from "../assets/travel-cover2.jpg";
+import BannerImg from "../assets/coastline.jpg";
+import Banner2 from "../assets/resort.jpg";
 import OrderPopup from "../components/OrderPopup/OrderPopup";
 
 const Home = () => {

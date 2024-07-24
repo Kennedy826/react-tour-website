@@ -33,7 +33,7 @@ const Hero = () => {
                   type="text"
                   name="destination"
                   id="destination"
-                  placeholder="Dubai"
+                  placeholder="Diani beach,Kenya"
                   className="w-full bg-gray-100 my-2 range accent-primary focus:outline-primary focus:outline outline-1 rounded-full p-2"
                 />
               </div>
@@ -70,7 +70,7 @@ const Hero = () => {
                 </div>
               </div>
             </div>
-            <button className="bg-gradient-to-r from-primary to-secondary text-white hover:scale-105 px-4 py-2 rounded-full duration-200 absolute -bottom-5 left-1/2 -translate-x-1/2">
+            <button className="bg-gradient-to-r from-pink-600 to-pink-500 text-white hover:scale-105 px-4 py-2 rounded-full duration-200 absolute -bottom-5 left-1/2 -translate-x-1/2">
               Search Now
             </button>
           </div>
