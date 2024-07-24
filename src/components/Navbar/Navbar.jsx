@@ -48,7 +48,7 @@ const Navbar = ({ handleOrderPopup }) => {
   return (
     <>
       <nav className="fixed top-0 right-0 w-full z-50 bg-white backdrop-blur-sm text-black shadow-md">
-        <div className="bg-gradient-to-r from-red-600 to-rose-500 text-white ">
+        <div className="bg-gradient-to-r from-pink-600 to-pink-500 text-white ">
           <div className="container py-[2px] sm:block hidden">
             <div className="flex items-center justify-between">
               <p className="text-sm">10% off on next booking</p>
